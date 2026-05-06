@@ -6,16 +6,6 @@ const PORT = process.env.PORT || 3000;
 
 app.set('trust proxy', 1);
 
-const CANONICAL_HOST = 'erizonn.com';
-
-app.use((req, res, next) => {
-  const host = (req.hostname || '').toLowerCase();
-  if (host === `www.${CANONICAL_HOST}`) {
-    return res.redirect(301, `https://${CANONICAL_HOST}${req.originalUrl}`);
-  }
-  next();
-});
-
 app.get('/sitemap.xml', (req, res) => {
   res.type('application/xml');
   res.sendFile(path.join(__dirname, 'public', 'sitemap.xml'));
