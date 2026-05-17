@@ -383,6 +383,72 @@ a:hover {
   line-height: 1.65;
 }
 
+/* CTA card */
+.cta-card {
+  background: radial-gradient(ellipse at 50% 0%, #1f1f3a 0%, var(--primary) 65%);
+  color: #fff;
+  border-radius: var(--radius-lg);
+  padding: 4.5rem 2.5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.cta-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 40px 40px;
+  mask-image: radial-gradient(ellipse at center, black 30%, transparent 80%);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 80%);
+  z-index: -1;
+}
+
+.cta-card::after {
+  content: "";
+  position: absolute;
+  top: -30%;
+  left: 50%;
+  width: 520px;
+  height: 520px;
+  transform: translateX(-50%);
+  background: radial-gradient(circle at center, rgba(233, 69, 96, 0.22), transparent 65%);
+  filter: blur(50px);
+  z-index: -1;
+  pointer-events: none;
+}
+
+.cta-card .section-eyebrow {
+  color: var(--accent-soft);
+}
+
+.cta-card-title {
+  font-size: clamp(1.7rem, 3.2vw, 2.4rem);
+  font-weight: 700;
+  margin: 0.4rem auto 0.9rem;
+  letter-spacing: -0.8px;
+  line-height: 1.2;
+}
+
+.cta-card-text {
+  color: rgba(255, 255, 255, 0.72);
+  max-width: 560px;
+  margin: 0 auto 2rem;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 768px) {
+  .cta-card {
+    padding: 3rem 1.5rem;
+  }
+}
+
 /* App showcase */
 .app-showcase {
   background: var(--card-bg);
