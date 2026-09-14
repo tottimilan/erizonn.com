@@ -25,6 +25,9 @@ app.use(express.static(path.join(__dirname, 'public'), {
     if (filePath.endsWith('.xml')) {
       res.setHeader('Content-Type', 'application/xml; charset=UTF-8');
     }
+    if (filePath.endsWith('.woff2')) {
+      res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
+    }
   },
 }));
 
