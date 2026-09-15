@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build:pages": "node scripts/build-services.js && node scripts/seo-pages.js && node scripts/gen-seo.js"
   },
   "dependencies": {
     "compression": "^1.8.2",
