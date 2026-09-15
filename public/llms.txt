@@ -1,30 +1,30 @@
 # Erizonn Media
 
-> Erizonn Media S.L. es una agencia digital con sede en Madrid (España), fundada en 2020. Diseña, desarrolla y lanza apps móviles para iOS y Android, webs y landing pages, tiendas Shopify y ecommerce B2B, integraciones y automatizaciones, soluciones de inteligencia artificial aplicada con supervisión humana y plataformas de software a medida, y gestiona marketing digital (SEO, Google Ads y Social Ads).
+> Erizonn Media (también «Erizonn») es una agencia digital con sede en Madrid (España), fundada en 2020. Diseña, desarrolla y lanza apps móviles para iOS y Android, webs y landing pages, tiendas Shopify y ecommerce B2B, integraciones y automatizaciones, soluciones de inteligencia artificial aplicada con supervisión humana y plataformas de software a medida, y gestiona marketing digital (SEO, Google Ads y Social Ads).
 
-- Nombre comercial: Erizonn (razón social Erizonn Media S.L., CIF B42866798).
+- Nombre: Erizonn Media (también «Erizonn»). Razón social Erizonn Media S.L., CIF B42866798, IVA intracomunitario ESB42866798.
 - Sede: Paseo Ermita del Santo 40, Local 1, 28011 Madrid, España.
 - Contacto: apps@erizonn.com · +34 910 626 607 · lunes a viernes, 9:00–18:00 (hora de Madrid).
-- Fundada en 2020. Trabaja en español con empresas de toda España y de otros países, también en remoto.
+- Fundada en 2020. Trabaja en español con empresas de toda España.
 - Web oficial: https://www.erizonn.com
-- Sectores con experiencia: Formación online, Salud, fitness y nutrición, Moda y retail, Distribución B2B, Alimentación, Servicios profesionales, Franquicias y comercio local, Creadores de contenido.
-- Tecnologías habituales: Next.js, React, React Native, Expo, Astro, TypeScript, Shopify, Stripe, Node.js, PostgreSQL, Supabase, Tailwind CSS, Claude, OpenAI, n8n, WhatsApp Business, Google Ads, Vercel, Cloudflare.
+- Sectores con experiencia: Formación online; Salud, fitness y nutrición; Moda y retail; Distribución B2B; Alimentación; Servicios profesionales; Franquicias y comercio local; Creadores de contenido.
+- Tecnologías habituales: Next.js; React; React Native; Expo; Astro; TypeScript; Shopify; Stripe; Node.js; PostgreSQL; Supabase; Tailwind CSS; Claude; OpenAI; n8n; WhatsApp Business; Google Ads; Vercel; Cloudflare.
 - Forma de trabajo: Descubrimiento → Diseño y prototipo → Desarrollo → Lanzamiento y evolución, con entregas frecuentes.
 - Proyectos: Erizonn no publica casos ni clientes en su web; muestra proyectos similares bajo petición.
 
 ## Servicios
 
-- [Apps móviles](https://www.erizonn.com/servicios/apps-moviles): Desarrollo de apps móviles en Madrid para iOS y Android con React Native y Expo: prototipo navegable, MVP, suscripciones in-app, push y panel de gestión.
-- [Webs y landing pages](https://www.erizonn.com/servicios/desarrollo-web): Desarrollo web en Madrid: webs corporativas y landing pages con Next.js o Astro, rápidas en móvil, multilingües y con SEO técnico desde el inicio.
-- [Shopify y ecommerce](https://www.erizonn.com/servicios/shopify-ecommerce): Desarrollo Shopify en Madrid: personalización de temas Online Store 2.0, carrito y fichas, tiendas multidioma y portal B2B con tarifas por cliente.
-- [Integraciones y automatización](https://www.erizonn.com/servicios/integraciones-automatizacion): Integraciones y automatización de procesos en Madrid: ERP y Shopify sincronizados, WhatsApp Business, n8n, reservas y pagos, con historial y alertas.
-- [IA aplicada](https://www.erizonn.com/servicios/inteligencia-artificial): Inteligencia artificial para empresas en Madrid: copilotos con aprobación humana y asistentes sobre tus datos, diseñados teniendo en cuenta el RGPD.
-- [Plataformas a medida](https://www.erizonn.com/servicios/plataformas-a-medida): Desarrollo de software a medida en Madrid: plataformas de formación, portales de clientes, herramientas internas y cuadros de mando que crecen por fases.
-- [Marketing digital y Ads](https://www.erizonn.com/servicios/marketing-digital): Agencia de marketing digital en Madrid: SEO técnico y local, Google Ads, Social Ads, landings por campaña y analítica para decidir con datos.
+- [Apps móviles](https://www.erizonn.com/servicios/apps-moviles.md): Desarrollo de apps móviles en Madrid para iOS y Android con React Native y Expo: prototipo navegable, MVP, suscripciones in-app, push y panel de gestión. Versión HTML: https://www.erizonn.com/servicios/apps-moviles
+- [Webs y landing pages](https://www.erizonn.com/servicios/desarrollo-web.md): Desarrollo web en Madrid: webs corporativas y landing pages con Next.js o Astro, rápidas en móvil, multilingües y con SEO técnico desde el inicio. Versión HTML: https://www.erizonn.com/servicios/desarrollo-web
+- [Shopify y ecommerce](https://www.erizonn.com/servicios/shopify-ecommerce.md): Desarrollo Shopify en Madrid: personalización de temas Online Store 2.0, carrito y fichas, tiendas multidioma y portal B2B con tarifas por cliente. Versión HTML: https://www.erizonn.com/servicios/shopify-ecommerce
+- [Integraciones y automatización](https://www.erizonn.com/servicios/integraciones-automatizacion.md): Integraciones y automatización de procesos en Madrid: ERP y Shopify sincronizados, WhatsApp Business, n8n, reservas y pagos, con historial y alertas. Versión HTML: https://www.erizonn.com/servicios/integraciones-automatizacion
+- [IA aplicada](https://www.erizonn.com/servicios/inteligencia-artificial.md): Inteligencia artificial para empresas en Madrid: copilotos con aprobación humana y asistentes sobre tus datos, diseñados teniendo en cuenta el RGPD. Versión HTML: https://www.erizonn.com/servicios/inteligencia-artificial
+- [Plataformas a medida](https://www.erizonn.com/servicios/plataformas-a-medida.md): Desarrollo de software a medida en Madrid: plataformas de formación, portales de clientes, herramientas internas y cuadros de mando que crecen por fases. Versión HTML: https://www.erizonn.com/servicios/plataformas-a-medida
+- [Marketing digital y Ads](https://www.erizonn.com/servicios/marketing-digital.md): Agencia de marketing digital en Madrid: SEO técnico y local, Google Ads, Social Ads, landings por campaña y analítica para decidir con datos. Versión HTML: https://www.erizonn.com/servicios/marketing-digital
 
 ## Empresa
 
-- [Inicio](https://www.erizonn.com/): Servicios, forma de trabajo, sectores y preguntas frecuentes de Erizonn.
+- [Inicio](https://www.erizonn.com/): Servicios, forma de trabajo, sectores y preguntas frecuentes de Erizonn Media.
 - [Soporte y contacto](https://www.erizonn.com/support.html): Canales de contacto, horario, datos fiscales y ayuda para usuarios de las apps de Erizonn Media.
 - [Contenido completo en texto](https://www.erizonn.com/llms-full.txt): Todo el contenido de la web en un único documento Markdown.
 

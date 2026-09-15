@@ -59,6 +59,15 @@ app.use(express.static(path.join(__dirname, 'public'), {
     if (filePath.endsWith('.txt')) {
       res.setHeader('Content-Type', 'text/plain; charset=UTF-8');
     }
+    const base = path.basename(filePath);
+    if (/^llms(-full)?\.txt$/.test(base)) {
+      res.setHeader('X-Robots-Tag', 'noindex');
+    }
+    if (base.endsWith('.md')) {
+      res.setHeader('Content-Type', 'text/markdown; charset=UTF-8');
+      res.setHeader('X-Robots-Tag', 'noindex');
+      res.setHeader('Link', `<https://www.erizonn.com/servicios/${base.slice(0, -3)}>; rel="canonical"`);
+    }
     if (filePath.endsWith('.woff2')) {
       res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
     }

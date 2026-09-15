@@ -1,18 +1,18 @@
 # Erizonn Media — contenido completo
 
-> Erizonn Media S.L. es una agencia digital con sede en Madrid (España), fundada en 2020. Diseña, desarrolla y lanza apps móviles para iOS y Android, webs y landing pages, tiendas Shopify y ecommerce B2B, integraciones y automatizaciones, soluciones de inteligencia artificial aplicada con supervisión humana y plataformas de software a medida, y gestiona marketing digital (SEO, Google Ads y Social Ads).
+> Erizonn Media (también «Erizonn») es una agencia digital con sede en Madrid (España), fundada en 2020. Diseña, desarrolla y lanza apps móviles para iOS y Android, webs y landing pages, tiendas Shopify y ecommerce B2B, integraciones y automatizaciones, soluciones de inteligencia artificial aplicada con supervisión humana y plataformas de software a medida, y gestiona marketing digital (SEO, Google Ads y Social Ads).
 
 Fuente: https://www.erizonn.com · Idioma: español (España)
 
 ## Datos de la empresa
 
-- Nombre comercial: Erizonn (razón social Erizonn Media S.L., CIF B42866798).
+- Nombre: Erizonn Media (también «Erizonn»). Razón social Erizonn Media S.L., CIF B42866798, IVA intracomunitario ESB42866798.
 - Sede: Paseo Ermita del Santo 40, Local 1, 28011 Madrid, España.
 - Contacto: apps@erizonn.com · +34 910 626 607 · lunes a viernes, 9:00–18:00 (hora de Madrid).
-- Fundada en 2020. Trabaja en español con empresas de toda España y de otros países, también en remoto.
+- Fundada en 2020. Trabaja en español con empresas de toda España.
 - Web oficial: https://www.erizonn.com
-- Sectores con experiencia: Formación online, Salud, fitness y nutrición, Moda y retail, Distribución B2B, Alimentación, Servicios profesionales, Franquicias y comercio local, Creadores de contenido.
-- Tecnologías habituales: Next.js, React, React Native, Expo, Astro, TypeScript, Shopify, Stripe, Node.js, PostgreSQL, Supabase, Tailwind CSS, Claude, OpenAI, n8n, WhatsApp Business, Google Ads, Vercel, Cloudflare.
+- Sectores con experiencia: Formación online; Salud, fitness y nutrición; Moda y retail; Distribución B2B; Alimentación; Servicios profesionales; Franquicias y comercio local; Creadores de contenido.
+- Tecnologías habituales: Next.js; React; React Native; Expo; Astro; TypeScript; Shopify; Stripe; Node.js; PostgreSQL; Supabase; Tailwind CSS; Claude; OpenAI; n8n; WhatsApp Business; Google Ads; Vercel; Cloudflare.
 - Forma de trabajo: Descubrimiento → Diseño y prototipo → Desarrollo → Lanzamiento y evolución, con entregas frecuentes.
 - Proyectos: Erizonn no publica casos ni clientes en su web; muestra proyectos similares bajo petición.
 
@@ -32,6 +32,26 @@ Fuente: https://www.erizonn.com · Idioma: español (España)
 2. **Diseño y prototipo:** Diseñamos las pantallas clave y un prototipo navegable para validar la idea antes de escribir código.
 3. **Desarrollo:** Construimos en iteraciones, con entornos de prueba, tests automatizados y revisiones contigo en cada entrega.
 4. **Lanzamiento y evolución:** Publicamos, medimos y seguimos mejorando: mantenimiento, monitorización y nuevas funcionalidades.
+
+## Por qué Erizonn
+
+- **Un solo equipo:** App, web, tienda, integraciones y campañas en las mismas manos. Menos coordinación, menos errores.
+- **Código a medida y mantenible:** Tecnologías modernas, tests automatizados y buenas prácticas para crecer sin tener que rehacerlo todo.
+- **Medición desde el primer día:** Analítica, conversiones y eventos configurados de inicio para decidir con datos, no con intuiciones.
+- **Seguridad y privacidad:** RGPD, consentimiento de cookies, control de accesos y copias de seguridad como parte del proyecto.
+- **Rápido en móvil:** Webs y apps ligeras, con SEO técnico y buen rendimiento donde está la mayoría de tus clientes.
+- **Comunicación directa:** Respuestas rápidas y seguimiento transparente en cada fase.
+
+## Tipos de proyectos
+
+Hemos desarrollado apps, tiendas, plataformas e integraciones para empresas de sectores muy distintos. No los publicamos aquí: te enseñamos los más parecidos al tuyo en una llamada.
+
+- **Ecommerce B2B:** Portal mayorista con tarifas por cliente
+- **Plataforma de formación:** Cursos, pagos, vídeo y evaluación
+- **App móvil:** iOS y Android con suscripciones
+- **Asistente con IA:** Respuestas con aprobación humana
+- **Integración con ERP:** Stock, precios y pedidos sincronizados
+- **Webs multilingües:** SEO técnico y captación de clientes
 
 ## Preguntas frecuentes
 
@@ -69,9 +89,11 @@ Sí. No los publicamos en la web, pero en una llamada te enseñamos los proyecto
 
 URL: https://www.erizonn.com/servicios/apps-moviles
 
-Desarrollo de apps móviles en Madrid para iOS y Android. Creamos tu app para iOS y Android con una sola base de código en React Native y Expo. Del prototipo navegable al MVP y a la beta con usuarios reales, y te acompañamos en la publicación en las tiendas.
+Desarrollo de apps móviles en Madrid para iOS y Android. En Erizonn creamos tu app para iOS y Android con una sola base de código en React Native y Expo. Del prototipo navegable al MVP y a la beta con usuarios reales, y te acompañamos en la publicación en las tiendas.
 
 ### Qué incluye
+
+Una app no es solo lo que se ve en el móvil. También construimos el backend, el panel para tu equipo y las piezas para cobrar, enviar avisos y actualizarla.
 
 - **Prototipo navegable:** Pantallas de alta fidelidad con datos de ejemplo que se recorren en el móvil como la app final. Lo enseñas a usuarios y decides qué entra en el MVP.
 - **App para iOS y Android:** Una sola base de código con React Native, Expo y TypeScript. Acceso con email, Google o Apple y enlaces que abren la pantalla exacta.
@@ -80,51 +102,57 @@ Desarrollo de apps móviles en Madrid para iOS y Android. Creamos tu app para iO
 - **Panel de administración:** Panel web para gestionar contenidos, usuarios, moderación y notificaciones, con registro de actividad y buzón de opiniones de la beta.
 - **Backend con Supabase:** PostgreSQL con autenticación, almacenamiento de fotos y vídeos, funciones en el servidor y permisos por usuario en cada tabla.
 
-### Para quién
+### Casos de uso: Cuándo tiene sentido una app
+
+Escenarios habituales en los que una app móvil aporta más que una web. Si el tuyo no aparece, cuéntanoslo y lo valoramos contigo.
 
 - **Validar una idea de producto:** Tienes un concepto y quieres comprobar si convence antes de invertir en el desarrollo completo. Empezamos por un prototipo navegable y lo pruebas con usuarios.
 - **Contenido con modelo freemium:** Un catálogo con parte gratuita y parte premium, suscripción dentro de la app y avisos cuando hay novedades, todo gestionado desde un panel web.
 - **Una app para tus clientes:** Das un servicio y quieres estar en el móvil de tus clientes: cuentas de usuario, contenido personalizado y avisos de lo que les importa.
 - **Funciones con IA dentro de la app:** Generar, clasificar o estructurar contenido con IA dentro de tu app, con validaciones automáticas y revisión de tu equipo antes de publicarlo.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: Así llevamos tu app a usuarios reales
 
 - **MVP con lo imprescindible:** Priorizamos las funciones que demuestran que la app sirve a tu negocio. Lo demás queda planificado para las siguientes fases.
 - **Beta privada con TestFlight:** Distribuimos la app a un grupo de usuarios reales y recogemos sus opiniones en el panel antes de abrirla al público.
 - **Mejoras sin esperar a la tienda:** El contenido se cambia desde el panel y las mejoras que no tocan la parte nativa llegan a los móviles sin pasar de nuevo por la tienda.
 - **Errores y uso bajo control:** Analítica de producto que filtra los datos personales, monitorización de errores en la app y el servidor, y tests automatizados.
 
-Tecnologías habituales: React Native, Expo y Expo Router, TypeScript, EAS Build, Submit y Update, RevenueCat, Supabase, PostgreSQL, APNs y Firebase Cloud Messaging, TestFlight, Sentry.
+Tecnologías habituales: React Native; Expo y Expo Router; TypeScript; EAS Build, Submit y Update; RevenueCat; Supabase; PostgreSQL; APNs y Firebase Cloud Messaging; TestFlight; Sentry.
 
-### Preguntas frecuentes sobre apps móviles
+### Preguntas frecuentes
 
-### ¿Por qué React Native y Expo en lugar de dos apps nativas?
+#### ¿Por qué React Native y Expo en lugar de dos apps nativas?
 
 Con una sola base de código tienes la app en iOS y Android a la vez, y cada mejora llega a las dos plataformas. Cubre lo habitual en una app de negocio: push, subida de fotos y vídeos, suscripciones o acceso con Apple y Google. Si tu idea necesita algo muy específico del dispositivo, lo analizamos antes de empezar.
 
-### ¿Necesito una app o me basta con una web instalable?
+#### ¿Necesito una app o me basta con una web instalable?
 
 Depende del uso. Si quieres estar en App Store y Google Play o vender suscripciones a través de las tiendas, lo lógico es una app. Para herramientas internas o portales de clientes puede bastar una aplicación web instalable (PWA) con avisos push y uso sin conexión. Te ayudamos a decidir.
 
-### ¿Qué diferencia hay entre prototipo, MVP y beta?
+#### ¿Qué diferencia hay entre prototipo, MVP y beta?
 
 El prototipo navegable simula la app con datos de ejemplo para validar la idea con usuarios. El MVP es la primera versión funcional, con backend real y solo lo imprescindible. La beta privada la pone en manos de un grupo de usuarios reales para pulirla antes de abrirla al público.
 
-### ¿Os encargáis de la publicación en App Store y Google Play?
+#### ¿Os encargáis de la publicación en App Store y Google Play?
 
 Te acompañamos en todo el proceso: versiones de producción, beta privada con TestFlight y envío a revisión con lo que piden Apple y Google. La aprobación final depende de cada tienda. Te recomendamos que las cuentas de desarrollador estén a nombre de tu empresa, para que la app sea siempre tuya.
 
-### ¿Cómo tratáis los datos de los usuarios de la app?
+#### ¿Cómo tratáis los datos de los usuarios de la app?
 
 Diseñamos la app teniendo en cuenta el RGPD: consentimiento, exportación de datos y borrado de cuenta, permisos por usuario en la base de datos y analítica que filtra los datos personales. Si incluye funciones con IA, con revisión humana donde un error importa.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 ## Webs y landing pages
 
 URL: https://www.erizonn.com/servicios/desarrollo-web
 
-Desarrollo web en Madrid, pensado para captar clientes. Webs corporativas, webs de marca y landing pages con Next.js o Astro. Diseño a medida, SEO técnico desde la estructura, formularios que te avisan al momento y analítica con consentimiento para saber qué funciona.
+Desarrollo web en Madrid, pensado para captar clientes. En Erizonn diseñamos y desarrollamos webs corporativas, webs de marca y landing pages con Next.js o Astro. Diseño a medida, SEO técnico desde la estructura, formularios que te avisan al momento y analítica con consentimiento para saber qué funciona.
 
 ### Qué incluye
+
+Ajustamos el alcance a tu negocio. Estas son las piezas que solemos incluir en una web o una landing.
 
 - **Diseño a medida y ligero:** Diseño adaptado a tu marca, imágenes optimizadas, fuentes autoalojadas y carga diferida. Animaciones y demos interactivas que cuidan la velocidad.
 - **Webs multilingües:** URL traducidas, selector de idioma, hreflang y sitemap por idioma para que Google identifique cada versión. También idiomas de derecha a izquierda.
@@ -133,51 +161,57 @@ Desarrollo web en Madrid, pensado para captar clientes. Webs corporativas, webs 
 - **Presupuestadores y reservas:** Presupuestadores paso a paso, calculadoras interactivas y reserva de videollamadas, con cada uso medido como conversión.
 - **Analítica con consentimiento:** GA4 y Tag Manager con Consent Mode v2: la analítica espera al consentimiento. Formularios, llamadas y clics en WhatsApp, medidos como conversiones.
 
-### Para quién
+### Casos de uso: Webs pensadas para tu forma de vender
+
+Escenarios habituales, no casos de clientes. En una llamada te enseñamos los proyectos más parecidos al tuyo.
 
 - **Servicios profesionales:** Landings por servicio y por problema del cliente, un formulario en dos pasos que cualifica la solicitud y reserva de videollamada para el primer contacto.
 - **Comercio local:** La conversión es un mensaje de WhatsApp, una llamada o una visita: barra de contacto fija en móvil, mapa, enlaces a reseñas de Google y datos estructurados locales.
 - **Franquicias y negocios con varias sedes:** Una web por tienda o sede a partir de una sola plantilla, cada una con su dominio, horarios, SEO local y textos legales propios.
 - **Venta con presupuesto:** Un presupuestador en varios pasos y demos interactivas del producto para resolver dudas antes de la llamada. La solicitud te llega ya ordenada.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: Una base técnica preparada para crecer
 
 - **Primero, el objetivo:** Definimos qué cuenta como conversión (formulario, llamada, WhatsApp o reserva) y diseñamos cada página para llevar a esa acción.
 - **SEO desde la estructura:** Organizamos las páginas por servicio e intención de búsqueda, con metadatos únicos y datos estructurados desde la primera versión.
 - **Rendimiento en móvil:** Poco JavaScript, imágenes ligeras y revisión específica en móvil: desbordes, zonas táctiles, zoom automático en iOS y tiempos de carga.
 - **Privacidad de serie:** Consentimiento denegado por defecto, cabeceras de seguridad, antispam y páginas legales.
 
-Tecnologías habituales: Next.js, Astro, TypeScript, Tailwind CSS, Schema.org, Google Analytics 4, Google Tag Manager, Cloudflare Turnstile, Google Search Console, Vercel.
+Tecnologías habituales: Next.js; Astro; TypeScript; Tailwind CSS; Schema.org; Google Analytics 4; Google Tag Manager; Cloudflare Turnstile; Google Search Console; Vercel.
 
-### Preguntas frecuentes sobre webs y landing pages
+### Preguntas frecuentes
 
-### ¿Next.js o Astro? ¿Qué tecnología necesita mi web?
+#### ¿Next.js o Astro? ¿Qué tecnología necesita mi web?
 
 Depende de lo que tenga que hacer. Astro encaja en webs de contenido y landings que deben cargar muy rápido con muy poco JavaScript. Next.js, cuando la web necesita más lógica: áreas privadas, pagos o integraciones. Te explicamos la elección en la propuesta.
 
-### ¿Podré actualizar la web sin depender de vosotros?
+#### ¿Podré actualizar la web sin depender de vosotros?
 
 Si lo necesitas, sí: integramos un blog o un gestor de contenidos para que tu equipo publique artículos, noticias o banners sin tocar código, con borradores antes de publicar. Si prefieres no ocuparte, publicamos los cambios por ti.
 
-### Ya tengo una web en WordPress u otra plataforma. ¿Perderé posicionamiento al cambiarla?
+#### Ya tengo una web en WordPress u otra plataforma. ¿Perderé posicionamiento al cambiarla?
 
 Nadie puede garantizar posiciones, pero planificamos la migración para reducir el riesgo: localizamos las URL que ya reciben tráfico, configuramos redirecciones 301 hacia las nuevas y revisamos Search Console tras publicar para corregir errores de indexación.
 
-### ¿Cómo tratáis el RGPD y las cookies?
+#### ¿Cómo tratáis el RGPD y las cookies?
 
 La web se diseña teniendo en cuenta el RGPD: banner de cookies con consentimiento denegado por defecto, Consent Mode v2, casillas de consentimiento en los formularios y páginas legales. Conviene que tu asesor legal valide los textos definitivos.
 
-### ¿Necesito una landing page o una web completa?
+#### ¿Necesito una landing page o una web completa?
 
 Una landing se centra en una sola oferta y una sola acción, y encaja con campañas en Google Ads o redes sociales. Una web corporativa reúne tus servicios y el contenido que posiciona a largo plazo. A menudo conviene combinarlas: la web como base y landings por servicio o campaña.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 ## Shopify y ecommerce
 
 URL: https://www.erizonn.com/servicios/shopify-ecommerce
 
-Desarrollo Shopify en Madrid: venta minorista y mayorista en una sola tienda. Personalizamos tu tema Online Store 2.0, mejoramos carrito y fichas de producto y abrimos un canal mayorista con portal privado y tarifas por cliente. Trabajamos con GitHub y temas de previsualización.
+Desarrollo Shopify en Madrid: venta minorista y mayorista en una sola tienda. En Erizonn personalizamos tu tema Online Store 2.0, mejoramos carrito y fichas de producto y abrimos un canal mayorista con portal privado y tarifas por cliente. Trabajamos con GitHub y temas de previsualización.
 
 ### Qué incluye
+
+Trabajamos sobre tu propia tienda Shopify: el tema, el carrito, el catálogo y las herramientas que tu equipo usa cada día desde el admin.
 
 - **Personalización del tema:** Secciones y bloques a medida que tu equipo edita desde el editor de temas: compra por color, «completa el look» y productos señalados sobre fotos.
 - **Carrito y fichas de producto:** Carrito y carrito lateral a partir de diseños en Figma, con cupones, barra de regalo y venta cruzada. Fichas con datos técnicos desde metacampos.
@@ -186,51 +220,57 @@ Desarrollo Shopify en Madrid: venta minorista y mayorista en una sola tienda. Pe
 - **Canal mayorista B2B:** Portal privado para distribuidores: tarifas por cliente o nivel, pedido mínimo y pedido rápido por SKU. El distribuidor paga el precio que ve.
 - **Apps embebidas en el admin:** Apps a medida dentro del admin de Shopify para aprobar distribuidores, gestionar niveles de precio y editar el contenido del portal B2B.
 
-### Para quién
+### Casos de uso: Cuándo tiene sentido desarrollar a medida
+
+Escenarios habituales en los que una tienda Shopify necesita algo más que instalar otra app.
 
 - **Tu tema premium se queda corto:** Necesitas secciones de merchandising, filtros por talla o venta cruzada en el carrito que tu tema no trae. Las añadimos sin perder la edición visual.
 - **Quieres vender también al por mayor:** Vendes a particulares y quieres abrir un canal mayorista sin montar otra tienda: portal privado en el mismo Shopify, con altas que aprueba tu equipo y tarifas por nivel.
 - **El móvil no está a la altura:** Buena parte de tus visitas llega desde el móvil: revisamos carrito, fichas y pantallas clave para corregir desbordes, zonas táctiles pequeñas y el zoom automático en iOS.
 - **Tu producto necesita más información:** Vendes producto técnico o con mucho detalle: mostramos en la ficha datos técnicos, logísticos o nutricionales desde metacampos, que tu equipo actualiza sin tocar código.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: Cambios controlados, con la tienda abierta
 
 - **Revisión inicial:** Revisamos tema, apps instaladas, carrito y experiencia móvil para priorizar lo que más frena la compra.
 - **Diseño antes del código:** Partimos de tus diseños en Figma o definimos contigo las pantallas clave, en móvil y escritorio, antes de tocar Liquid.
 - **GitHub y temas de previsualización:** Trabajamos por ramas y revisamos contigo los cambios en un tema de previsualización antes de publicarlos.
 - **Publicación y evolución:** Publicamos con cambios versionados y seguimos iterando: nuevas secciones, mejoras del canal B2B y mantenimiento de tus apps a medida.
 
-Tecnologías habituales: Shopify Liquid, Online Store 2.0, Shopify CLI, GitHub, Shopify Admin GraphQL API, Shopify B2B, Polaris y App Bridge, Metacampos y metaobjetos, Extensiones de cuenta de cliente, Figma.
+Tecnologías habituales: Shopify Liquid; Online Store 2.0; Shopify CLI; GitHub; Shopify Admin GraphQL API; Shopify B2B; Polaris y App Bridge; Metacampos y metaobjetos; Extensiones de cuenta de cliente; Figma.
 
-### Preguntas frecuentes sobre shopify y ecommerce
+### Preguntas frecuentes
 
-### ¿Trabajáis sobre mi tema actual?
+#### ¿Trabajáis sobre mi tema actual?
 
 Normalmente sí, también si es un tema premium: lo ampliamos con secciones y bloques propios y tu equipo sigue editando desde el editor de temas. Si es un tema antiguo, sin soporte para Online Store 2.0, lo valoramos contigo en la revisión inicial.
 
-### ¿Puedo vender a particulares y a distribuidores en la misma tienda?
+#### ¿Puedo vender a particulares y a distribuidores en la misma tienda?
 
 Sí. El portal mayorista vive en el mismo tema y solo entran las cuentas aprobadas: los particulares ven la tienda de siempre y los distribuidores, sus precios, su pedido mínimo y el pedido rápido. Los productos sin precio mayorista no aparecen en su catálogo.
 
-### ¿Qué es una app embebida y cuándo la necesito?
+#### ¿Qué es una app embebida y cuándo la necesito?
 
 Es una aplicación a medida que se abre dentro del admin de Shopify, con el mismo aspecto que el resto del panel. Encaja cuando tu equipo repite tareas que Shopify no resuelve: aprobar altas de distribuidores, ajustar tarifas por familia de producto o editar los banners del portal B2B.
 
-### ¿Cómo evitáis romper la tienda mientras trabajáis?
+#### ¿Cómo evitáis romper la tienda mientras trabajáis?
 
 El tema está conectado a GitHub. Probamos los cambios en un tema de previsualización antes de publicarlos y todo queda versionado, así que se puede revisar y, si hace falta, deshacer. Lo que tu equipo ajusta desde el editor de temas también se guarda en el repositorio.
 
-### ¿Qué pasa con las apps que ya tengo instaladas?
+#### ¿Qué pasa con las apps que ya tengo instaladas?
 
 Las revisamos al empezar. Si una app de terceros resuelve bien una parte, como los regalos en el carrito, la integramos con el tema. Si se solapa con otra o no cubre lo que necesitas, te proponemos alternativas o desarrollar esa pieza a medida.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 ## Integraciones y automatización
 
 URL: https://www.erizonn.com/servicios/integraciones-automatizacion
 
-Integraciones y automatización para que tus sistemas hablen entre sí. Conectamos tu ERP con Shopify, tu web con tus reservas y pagos, y tu calendario con WhatsApp. Las sincronizaciones críticas llevan historial, reintentos y alertas, para que sepas qué se ha sincronizado y qué hay que revisar.
+Integraciones y automatización para que tus sistemas hablen entre sí. En Erizonn conectamos tu ERP con Shopify, tu web con tus reservas y pagos, y tu calendario con WhatsApp. Las sincronizaciones críticas llevan historial, reintentos y alertas, para que sepas qué se ha sincronizado y qué hay que revisar.
 
 ### Qué incluye
+
+Cada integración se adapta a tus sistemas y a cómo trabaja tu equipo. Estas son las piezas que solemos construir.
 
 - **ERP y Shopify sincronizados:** Stock y precios desde tu ERP o el catálogo de tu proveedor, y pedidos de vuelta al ERP. Productos emparejados por EAN o SKU, en una o varias tiendas.
 - **Panel de sincronización:** Historial de cada ejecución, productos que solo existen en uno de los dos sistemas, discrepancias con corrección en un clic y exportación a CSV.
@@ -239,51 +279,57 @@ Integraciones y automatización para que tus sistemas hablen entre sí. Conectam
 - **n8n y tareas programadas:** Flujos que unen Google Calendar, Google Sheets y mensajería: recordatorios automáticos, leads de tus formularios en una hoja e informes programados.
 - **Reservas y pagos conectados:** Cal.com y Stripe en tu web o plataforma: la reserva llega a tu panel, el pago activa el acceso y los cambios y cancelaciones se sincronizan.
 
-### Para quién
+### Casos de uso: Dónde se nota la diferencia
+
+Escenarios habituales, no clientes concretos. Los proyectos más parecidos al tuyo te los enseñamos en una llamada.
 
 - **Tienda online con el stock de un mayorista:** El stock del proveedor se actualiza en Shopify cada pocos minutos. Si un producto no se empareja, aparece en el panel para revisarlo en vez de descuadrar el inventario.
 - **Canal mayorista conectado al ERP:** Las tarifas por nivel de cliente se calculan con los precios del ERP. Cada pedido B2B se envía al ERP, y su número de pedido y las incidencias quedan anotados en Shopify.
 - **Negocio con citas o clases:** Un flujo de n8n lee tu calendario, busca al cliente en Google Sheets y le envía un recordatorio por WhatsApp antes de cada cita o clase, con una plantilla aprobada por Meta.
 - **Venta con reserva y pago online:** Quien reserva una llamada en Cal.com aparece en tu panel como lead. Cuando paga con Stripe, su acceso se activa solo, y si cambia o cancela la cita, el panel se actualiza.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: Integraciones preparadas para cuando algo falla
 
 - **Primero, el mapa de datos:** Antes de programar definimos qué sistema manda en cada dato (stock, precio, pedido) y cómo se identifica cada producto.
 - **Pruebas sin tocar producción:** Desarrollamos con datos simulados y entornos de prueba, para que los ensayos no afecten a tu stock ni a tus pedidos reales.
 - **Tolerancia a fallos:** Reintentos automáticos, bloqueo de ejecuciones simultáneas y un interruptor de emergencia para pausar la sincronización si algo no cuadra.
 - **Vigilancia en producción:** Comprobaciones de salud, detección de procesos atascados y avisos por email o Telegram, con registro de incidencias y guías de actuación.
 
-Tecnologías habituales: Shopify Admin GraphQL API, Node.js y TypeScript, PostgreSQL, WhatsApp Business Cloud API, n8n, Google Calendar, Sheets y Apps Script, Cal.com, Stripe, Telegram Bot API, Resend.
+Tecnologías habituales: Shopify Admin GraphQL API; Node.js y TypeScript; PostgreSQL; WhatsApp Business Cloud API; n8n; Google Calendar, Sheets y Apps Script; Cal.com; Stripe; Telegram Bot API; Resend.
 
-### Preguntas frecuentes sobre integraciones y automatización
+### Preguntas frecuentes
 
-### ¿Qué necesitáis para conectar mi ERP con Shopify?
+#### ¿Qué necesitáis para conectar mi ERP con Shopify?
 
 Acceso a la API de tu ERP o de tu proveedor y su documentación. Con eso revisamos qué datos expone, cómo identifica los productos (EAN o SKU) y qué sistema manda en cada dato, y te proponemos qué sincronizar y en qué sentido. Si no tiene API, lo estudiamos contigo antes de proponerte nada.
 
-### ¿Cada cuánto se sincronizan los datos?
+#### ¿Cada cuánto se sincronizan los datos?
 
 Depende del dato y de lo que permita la API. Los pedidos pueden enviarse en cuanto se crean, mediante webhooks. El stock y los precios suelen ir en tareas programadas, con una frecuencia que fijamos según el volumen de productos, agrupando los cambios para no saturar ningún sistema.
 
-### ¿Qué pasa si la sincronización falla?
+#### ¿Qué pasa si la sincronización falla?
 
 Los cortes puntuales se reintentan solos. Si el error persiste, queda registrado en el historial y la integración puede enviarte un aviso por email o Telegram. Además, un interruptor de emergencia permite pausar la sincronización mientras se revisa.
 
-### ¿Usáis la API oficial de WhatsApp?
+#### ¿Usáis la API oficial de WhatsApp?
 
 Sí. Planteamos las automatizaciones sobre la Cloud API de WhatsApp Business, la vía oficial de Meta. Pasadas 24 horas desde el último mensaje del cliente, tu negocio solo puede escribirle con plantillas aprobadas por Meta. No recomendamos automatizar WhatsApp Web: es frágil y puede acabar en el bloqueo de tu número.
 
-### ¿n8n o desarrollo a medida?
+#### ¿n8n o desarrollo a medida?
 
 Depende del flujo. n8n encaja para unir calendario, hojas de cálculo y mensajería con rapidez y con cada paso a la vista. Para datos críticos como stock, precios o pedidos, preferimos un servicio a medida con historial, reintentos y alertas.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 ## IA aplicada
 
 URL: https://www.erizonn.com/servicios/inteligencia-artificial
 
-Inteligencia artificial para empresas, bajo tu control. Integramos IA en tareas que hoy te quitan horas: contestar mensajes, consultar tus datos y procesar contenido. La IA propone, tu equipo decide y los límites los marcas tú.
+Inteligencia artificial para empresas, bajo tu control. En Erizonn integramos IA en tareas que hoy te quitan horas: contestar mensajes, consultar tus datos y procesar contenido. La IA propone, tu equipo decide y los límites los marcas tú.
 
 ### Qué incluye
+
+Soluciones concretas, conectadas a tus herramientas y con revisión humana donde de verdad importa.
 
 - **Copilotos de respuesta:** Borradores de respuesta para clientes y leads con el tono de tu marca, calibrado con tus conversaciones reales. Nada se envía sin tu aprobación.
 - **Asistente sobre tus datos:** Preguntas en lenguaje natural convertidas en consultas SQL que se validan antes de ejecutarse, con solo lectura y datos personales enmascarados.
@@ -292,51 +338,57 @@ Inteligencia artificial para empresas, bajo tu control. Integramos IA en tareas 
 - **Agentes de voz:** Agentes de voz para practicar conversaciones en tiempo real, adaptados al nivel y a los errores habituales de cada usuario, con evaluación final.
 - **Clasificación de textos:** Etiquetado automático de mensajes, publicaciones y contenidos por tema o intención, para ordenar y priorizar sin leerlo todo a mano.
 
-### Para quién
+### Casos de uso: Dónde encaja en tu día a día
+
+Escenarios habituales en los que la IA quita trabajo repetitivo sin quitarte el control.
 
 - **Más mensajes de los que puedes contestar:** Un negocio que vende por mensajes directos no llega a todo. La IA prepara un borrador por conversación y marca las que tienen interés real; tu equipo aprueba, edita o responde.
 - **Preguntas directas a tus datos:** El equipo de dirección pregunta «¿qué producto acumula más incidencias este trimestre?» y obtiene la respuesta de su propia base de datos, sin que nadie prepare un informe.
 - **Un archivo de vídeos sin aprovechar:** Un negocio con años de vídeos o audios publicados los convierte en fichas estructuradas y buscables, con transcripción, extracción de datos y revisión humana de lo dudoso.
 - **Formación que pide más práctica:** Una plataforma de formación genera cuestionarios a partir de sus propios materiales y suma práctica de conversación por voz, con el gasto en IA bajo control.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: IA útil, con límites claros
 
 - **Una persona decide:** La IA prepara y tu equipo aprueba, edita o descarta. Donde la IA conversa directamente con usuarios, como en los agentes de voz, fijamos límites claros y los casos delicados pasan a una persona.
 - **Acceso mínimo:** La IA accede únicamente a lo imprescindible: permisos por rol, solo lectura cuando basta y límites de uso para no salirse de lo previsto.
 - **Probado antes de usarlo:** Lo probamos en un entorno de pruebas antes de ponerlo ante clientes reales y, ya en marcha, tu equipo valora las respuestas para afinarlo.
 - **RGPD y transparencia:** Diseñado teniendo en cuenta el RGPD y el Reglamento Europeo de IA, con avisos claros cuando alguien interactúa con una IA.
 
-Tecnologías habituales: Claude (Anthropic), OpenAI, Whisper, Google Gemini, ElevenLabs, Vercel AI SDK, Zod, PostgreSQL, Inngest, Next.js.
+Tecnologías habituales: Claude (Anthropic); OpenAI; Whisper; Google Gemini; ElevenLabs; Vercel AI SDK; Zod; PostgreSQL; Inngest; Next.js.
 
-### Preguntas frecuentes sobre IA aplicada
+### Preguntas frecuentes
 
-### ¿Qué tareas tiene sentido pasar a la IA?
+#### ¿Qué tareas tiene sentido pasar a la IA?
 
 Las repetitivas que giran en torno a textos, audio o datos: preparar borradores de respuesta, clasificar mensajes, transcribir y extraer información o consultar tu base de datos. Donde un error saldría caro, la IA prepara el trabajo y una persona toma la decisión.
 
-### ¿Cuánto cuesta usar la IA cada mes?
+#### ¿Cuánto cuesta usar la IA cada mes?
 
 Depende del volumen y del modelo. Elegimos entre Claude, OpenAI o Gemini según la tarea, fijamos un presupuesto y medimos el consumo desde el primer día. También evitamos llamadas innecesarias; por ejemplo, descartamos los mensajes que no son de clientes potenciales antes de que lleguen al modelo.
 
-### ¿Qué pasa con los datos personales?
+#### ¿Qué pasa con los datos personales?
 
 Para usar modelos como Claude, GPT o Gemini, parte de la información se envía a su API. Por eso mandamos solo lo necesario para cada tarea y enmascaramos los datos personales que no hacen falta. Todo diseñado teniendo en cuenta el RGPD, y te ayudamos a reflejarlo en tu política de privacidad.
 
-### ¿Tengo que avisar de que uso inteligencia artificial?
+#### ¿Tengo que avisar de que uso inteligencia artificial?
 
 Depende del uso. El Reglamento Europeo de IA fija obligaciones de transparencia, como que las personas sepan que interactúan con una IA. Lo tenemos en cuenta desde el diseño, con avisos claros y el contenido generado identificado cuando procede. La valoración jurídica de tu caso corresponde a tu asesoría legal.
 
-### ¿Y si la IA se equivoca?
+#### ¿Y si la IA se equivoca?
 
 Contamos con ello. Comprobamos lo que genera antes de usarlo: las consultas pasan por un validador y solo pueden leer datos, y lo que no supera las comprobaciones se descarta o queda pendiente de revisión. Aun así, una respuesta puede tener el formato correcto y estar equivocada; por eso, donde un error saldría caro, una persona lo revisa antes de que llegue a un cliente.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 ## Plataformas a medida
 
 URL: https://www.erizonn.com/servicios/plataformas-a-medida
 
-Plataformas y software a medida, hechos para tu forma de trabajar. Desarrollamos plataformas de formación, portales de clientes y herramientas internas con los roles, permisos y procesos de tu negocio. Pueden instalarse en el móvil como una app y crecen contigo por fases.
+Plataformas y software a medida, hechos para tu forma de trabajar. En Erizonn desarrollamos plataformas de formación, portales de clientes y herramientas internas con los roles, permisos y procesos de tu negocio. Pueden instalarse en el móvil como una app y crecen contigo por fases.
 
 ### Qué incluye
+
+Cada plataforma parte de tus usuarios y tus procesos, y reúne las piezas que suelen hacer falta: roles y permisos, pagos, avisos y los datos en un solo sitio.
 
 - **Plataformas de formación (LMS):** Cursos por módulos con vídeo protegido, progreso, cuestionarios y certificados en PDF. El alumno paga con Stripe y su acceso se activa solo.
 - **Portales de clientes y marca blanca:** Un único sistema con datos aislados y marca propia para cada cliente, con portales separados para administración, profesionales y usuarios finales.
@@ -345,51 +397,57 @@ Plataformas y software a medida, hechos para tu forma de trabajar. Desarrollamos
 - **Aplicaciones web instalables (PWA):** Se instalan desde el navegador en iOS y Android, envían notificaciones push y guardan lo que registras sin conexión para sincronizarlo después.
 - **Migración desde tu plataforma actual:** Traemos contenidos, archivos e historial desde el SaaS que ya usas y los validamos antes del cambio, para que no empieces de cero.
 
-### Para quién
+### Casos de uso: Cuándo merece la pena
+
+Situaciones habituales en las que una plataforma propia sustituye a las hojas de cálculo, a las herramientas sueltas o a un SaaS que no encaja.
 
 - **Formación online con plataforma propia:** Vendes cursos en una plataforma de alquiler y quieres la tuya, con venta online, acceso automático tras el pago, progreso del alumno y certificados.
 - **Operaciones repartidas en varios centros:** Tienes varias tiendas o sedes y las incidencias, controles y encuestas van por correo y hojas de cálculo. Los reúnes en una herramienta donde cada perfil ve lo suyo.
 - **Profesionales que acompañan a sus clientes:** Tu equipo acompaña a tus clientes con planes y tareas. Les das un portal con tu marca para seguir su progreso y gestionas toda la cartera desde tu panel.
 - **Del informe manual al cuadro de mando:** Cada mes montas el informe a mano en hojas de cálculo. Con un cuadro de mando consultas ventas, márgenes y canales, con sus tendencias, sin rehacerlo.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: Bien construido por dentro
 
 - **Tu operativa primero:** Definimos roles, permisos y flujos reales antes de diseñar pantallas. Lanzamos una primera versión útil y sumamos módulos por fases.
 - **Privacidad desde el diseño:** Acceso por rol, datos aislados entre clientes, archivos privados, exportación y borrado de datos. Diseñado teniendo en cuenta el RGPD.
 - **Calidad que se comprueba:** Tests automatizados en integración continua, monitorización de errores y copias de seguridad programadas con scripts de restauración.
 - **IA con supervisión humana:** Donde aporta valor: asistentes que consultan tus datos en solo lectura, con los datos personales enmascarados, y contenido generado con IA que una persona revisa antes de publicarse.
 
-Tecnologías habituales: Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, Supabase, Stripe, Sentry, Vitest y Playwright.
+Tecnologías habituales: Next.js; React; TypeScript; Node.js; PostgreSQL; Prisma; Supabase; Stripe; Sentry; Vitest y Playwright.
 
-### Preguntas frecuentes sobre plataformas a medida
+### Preguntas frecuentes
 
-### ¿Por qué una plataforma a medida y no un SaaS de suscripción?
+#### ¿Por qué una plataforma a medida y no un SaaS de suscripción?
 
 Compensa cuando pagas por funciones que no usas, te faltan las que necesitas o tus datos están repartidos entre varias herramientas. Con una plataforma propia decides roles, marca y flujos, y la amplías a tu ritmo. Si un SaaS existente cubre lo que buscas, te lo diremos.
 
-### ¿Podéis migrar los datos de la plataforma que uso ahora?
+#### ¿Podéis migrar los datos de la plataforma que uso ahora?
 
 Normalmente sí, aunque depende de lo que permita tu plataforma actual: su API, sus exportaciones u otras vías de extracción. Transformamos y validamos los datos con ensayos previos y planificamos el cambio con opción de marcha atrás.
 
-### ¿Una PWA puede sustituir a una app de las tiendas?
+#### ¿Una PWA puede sustituir a una app de las tiendas?
 
 Para muchas herramientas internas y portales, sí: se instala desde el navegador en iOS y Android, envía notificaciones push y puede funcionar sin conexión, sin pasar por la revisión de las tiendas. Si necesitas funciones nativas o estar en App Store y Google Play, lo planteamos como app móvil.
 
-### ¿Puedo cobrar a mis usuarios desde la plataforma?
+#### ¿Puedo cobrar a mis usuarios desde la plataforma?
 
 Sí, con Stripe: pagos únicos, suscripciones, cupones y opciones de pago aplazado. Cuando el pago se confirma, la plataforma activa el acceso del usuario sin intervención manual, y tú consultas los cobros desde el panel de administración.
 
-### ¿Podré gestionar la plataforma sin depender de vosotros?
+#### ¿Podré gestionar la plataforma sin depender de vosotros?
 
 En el día a día, sí. Diseñamos un panel de administración para que gestiones usuarios, contenidos y plantillas sin tocar código. Las funcionalidades nuevas o los cambios en la lógica de la plataforma sí requieren desarrollo.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 ## Marketing digital y Ads
 
 URL: https://www.erizonn.com/servicios/marketing-digital
 
-Marketing digital en Madrid, medido desde el primer clic. Trabajamos el SEO de tu web y lanzamos campañas en Google y redes sociales. Cada visita llega a landings pensadas para convertir y todo se mide para que sepas qué canal te trae contactos.
+Marketing digital en Madrid, medido desde el primer clic. En Erizonn trabajamos el SEO de tu web y lanzamos campañas en Google y redes sociales. Cada visita llega a landings pensadas para convertir y todo se mide para que sepas qué canal te trae contactos.
 
 ### Qué incluye
+
+Partimos de una estrategia y un plan de captación. A partir de ahí activamos los canales que tienen sentido para tu negocio, siempre con la medición como base.
 
 - **SEO técnico y de contenidos:** Datos estructurados, sitemaps, URL canónicas y hreflang, errores de Search Console corregidos, páginas pilar por servicio y artículos de blog.
 - **SEO local:** Páginas locales por sede o tienda, horarios estructurados, datos de contacto coherentes (NAP) y enlaces a tus reseñas de Google.
@@ -398,65 +456,69 @@ Marketing digital en Madrid, medido desde el primer clic. Trabajamos el SEO de t
 - **Landings por campaña:** Una página por intención de búsqueda, con formularios que cualifican, botones de WhatsApp y de llamada, y una barra de contacto fija en el móvil.
 - **Analítica y cuadros de mando:** GA4, Tag Manager y píxel de Meta con consentimiento, eventos de formularios, llamadas y WhatsApp, y paneles con tus KPI de ventas y marketing.
 
-### Para quién
+### Casos de uso: Dónde encaja en tu negocio
+
+Escenarios habituales en los que trabajamos. Los proyectos reales no los publicamos: te los enseñamos en una llamada.
 
 - **Servicios profesionales:** Landings por servicio y por problema urgente, campañas de búsqueda que miden solicitudes reales y mejoras en la web a partir de los términos que busca tu cliente.
 - **Comercio local sin tienda online:** Si la venta se cierra en tu local, medimos lo que pasa antes: clics en WhatsApp, llamadas y consultas de cómo llegar, con SEO local y enlaces a tus reseñas.
 - **Red de tiendas o sedes:** Una página local optimizada para cada ubicación a partir de una sola plantilla, con horarios estructurados y datos de contacto coherentes en todas.
 - **Marca que invierte en varios canales:** Un cuadro de mando que reúne ventas, tráfico, inversión publicitaria y márgenes a partir de tus informes, para comparar canales y decidir dónde invertir.
 
-### Cómo lo hacemos
+### Cómo lo hacemos: Primero medir, luego invertir
 
 - **Diagnóstico y estrategia:** Revisamos tu web, tu competencia y cómo te buscan. Fijamos objetivos, KPI y un plan de captación por fases.
 - **Medición antes de lanzar:** GA4, Tag Manager y eventos de conversión con consentimiento, configurados antes de activar la primera campaña.
 - **Cada canal con su landing:** Activamos SEO, Google Ads o Social Ads según tu caso, y cada campaña llega a una página que responde a lo que busca quien hace clic.
 - **Optimización e informes:** Revisamos términos de búsqueda, conversiones y gasto, ajustamos campañas y web, y te lo contamos en informes claros.
 
-Tecnologías habituales: Google Analytics 4, Google Tag Manager, Consent Mode v2, Google Ads, Google Ads Scripts, Meta Pixel, Google Search Console, Schema.org, Next.js, Astro.
+Tecnologías habituales: Google Analytics 4; Google Tag Manager; Consent Mode v2; Google Ads; Google Ads Scripts; Meta Pixel; Google Search Console; Schema.org; Next.js; Astro.
 
-### Preguntas frecuentes sobre marketing digital y Ads
+### Preguntas frecuentes
 
-### ¿Garantizáis resultados o una posición en Google?
+#### ¿Garantizáis resultados o una posición en Google?
 
 No. Las posiciones en Google y las subastas de anuncios dependen de factores que ninguna agencia controla. Lo que sí hacemos es medir bien, documentar cada cambio y enseñarte con datos qué funciona y qué no.
 
-### ¿Cuánto tengo que invertir en publicidad?
+#### ¿Cuánto tengo que invertir en publicidad?
 
 Depende de tu sector, tu zona y la competencia en cada búsqueda. Te proponemos un presupuesto inicial de prueba, con alertas que avisan si el gasto se desvía, y lo ajustamos según los datos reales de las campañas.
 
-### ¿Necesito una web nueva para empezar?
+#### ¿Necesito una web nueva para empezar?
 
 No siempre. Revisamos la que tienes y, si la base sirve, empezamos por la medición y por landings específicas para cada campaña. Si tu web frena el SEO o la conversión, te lo decimos y te explicamos qué cambiaríamos.
 
-### ¿Cómo tratáis las cookies y el consentimiento?
+#### ¿Cómo tratáis las cookies y el consentimiento?
 
 La medición está diseñada teniendo en cuenta el RGPD: GA4 y el píxel de Meta solo se activan cuando el usuario acepta las cookies, con el consentimiento denegado por defecto en Consent Mode v2.
 
-### ¿Qué informes voy a recibir?
+#### ¿Qué informes voy a recibir?
 
 Informes periódicos con los KPI que acordemos al principio: contactos, conversiones, coste por canal y evolución del SEO, junto con lo que hemos cambiado y lo siguiente que proponemos. Si lo necesitas, también un cuadro de mando para consultarlo cuando quieras.
+
+Contacto: apps@erizonn.com · +34 910 626 607.
 
 # Soporte para usuarios de las apps
 
 URL: https://www.erizonn.com/support.html
 
-### ¿Cómo puedo eliminar mi cuenta?
+## ¿Cómo puedo eliminar mi cuenta?
 
 Puedes solicitar la eliminación de tu cuenta y datos desde la configuración de la app o enviándonos un correo a apps@erizonn.com. Más información en nuestra página de eliminación de datos.
 
-### ¿Cómo restauro una compra?
+## ¿Cómo restauro una compra?
 
 Abre la aplicación, ve a Ajustes y pulsa «Restaurar compras». Si el problema persiste, contacta con nuestro equipo de soporte.
 
-### Tengo un problema técnico
+## Tengo un problema técnico
 
 Envíanos un correo a apps@erizonn.com describiendo el problema, tu dispositivo y la versión de la app. Te ayudaremos lo antes posible.
 
-### ¿Cómo ejerzo mis derechos sobre mis datos?
+## ¿Cómo ejerzo mis derechos sobre mis datos?
 
 Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad escribiendo a apps@erizonn.com. También puedes presentar una reclamación ante la Agencia Española de Protección de Datos. Consulta los detalles en nuestra política de privacidad.
 
-### ¿En qué plataformas desarrolláis aplicaciones?
+## ¿En qué plataformas desarrolláis aplicaciones?
 
 Desarrollamos aplicaciones para iOS, Android y web. Si quieres conocer proyectos similares al tuyo, escríbenos.
 
