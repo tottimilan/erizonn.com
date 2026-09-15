@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desarrollo de apps móviles iOS y Android en Madrid — Erizonn</title>
+  <meta name="description" content="Desarrollo de apps móviles en Madrid para iOS y Android con React Native y Expo: prototipo navegable, MVP, suscripciones in-app, push y panel de gestión.">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="theme-color" content="#07070d">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://www.erizonn.com/servicios/apps-moviles">
+  <meta property="og:locale" content="es_ES">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Erizonn Media">
+  <meta property="og:title" content="Desarrollo de apps móviles iOS y Android en Madrid — Erizonn">
+  <meta property="og:description" content="Apps para iOS y Android con React Native y Expo: del prototipo navegable a la beta con usuarios reales.">
+  <meta property="og:url" content="https://www.erizonn.com/servicios/apps-moviles">
+  <meta property="og:image" content="https://www.erizonn.com/og/apps-moviles.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Apps móviles — Erizonn, agencia digital en Madrid">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Desarrollo de apps móviles iOS y Android en Madrid — Erizonn">
+  <meta name="twitter:description" content="Apps para iOS y Android con React Native y Expo: del prototipo navegable a la beta con usuarios reales.">
+  <meta name="twitter:image" content="https://www.erizonn.com/og/apps-moviles.jpg">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.erizonn.com/servicios/apps-moviles#webpage",
+          "url": "https://www.erizonn.com/servicios/apps-moviles",
+          "name": "Desarrollo de apps móviles iOS y Android en Madrid — Erizonn",
+          "description": "Desarrollo de apps móviles en Madrid para iOS y Android con React Native y Expo: prototipo navegable, MVP, suscripciones in-app, push y panel de gestión.",
+          "inLanguage": "es-ES",
+          "isPartOf": {
+            "@id": "https://www.erizonn.com/#website"
+          },
+          "about": {
+            "@id": "https://www.erizonn.com/servicios/apps-moviles#service"
+          },
+          "mainEntity": {
+            "@id": "https://www.erizonn.com/servicios/apps-moviles#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.erizonn.com/servicios/apps-moviles#breadcrumb"
+          },
+          "publisher": {
+            "@id": "https://www.erizonn.com/#organization"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://www.erizonn.com/og/apps-moviles.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "dateModified": "2026-09-15"
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.erizonn.com/servicios/apps-moviles#service",
+          "name": "Apps móviles",
+          "serviceType": "Desarrollo de aplicaciones móviles",
+          "description": "Desarrollo de apps móviles en Madrid para iOS y Android con React Native y Expo: prototipo navegable, MVP, suscripciones in-app, push y panel de gestión.",
+          "url": "https://www.erizonn.com/servicios/apps-moviles",
+          "image": "https://www.erizonn.com/og/apps-moviles.jpg",
+          "areaServed": {
+            "@type": "Country",
+            "name": "España"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://www.erizonn.com/servicios/apps-moviles#webpage"
+          },
+          "provider": {
+            "@type": "ProfessionalService",
+            "@id": "https://www.erizonn.com/#organization",
+            "name": "Erizonn Media S.L.",
+            "url": "https://www.erizonn.com/",
+            "email": "apps@erizonn.com",
+            "telephone": "+34 910 626 607"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.erizonn.com/servicios/apps-moviles#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Inicio",
+              "item": "https://www.erizonn.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Servicios",
+              "item": "https://www.erizonn.com/#services"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Apps móviles",
+              "item": "https://www.erizonn.com/servicios/apps-moviles"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://www.erizonn.com/servicios/apps-moviles#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "¿Por qué React Native y Expo en lugar de dos apps nativas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Con una sola base de código tienes la app en iOS y Android a la vez, y cada mejora llega a las dos plataformas. Cubre lo habitual en una app de negocio: push, subida de fotos y vídeos, suscripciones o acceso con Apple y Google. Si tu idea necesita algo muy específico del dispositivo, lo analizamos antes de empezar."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Necesito una app o me basta con una web instalable?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depende del uso. Si quieres estar en App Store y Google Play o vender suscripciones a través de las tiendas, lo lógico es una app. Para herramientas internas o portales de clientes puede bastar una aplicación web instalable (PWA) con avisos push y uso sin conexión. Te ayudamos a decidir."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Qué diferencia hay entre prototipo, MVP y beta?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "El prototipo navegable simula la app con datos de ejemplo para validar la idea con usuarios. El MVP es la primera versión funcional, con backend real y solo lo imprescindible. La beta privada la pone en manos de un grupo de usuarios reales para pulirla antes de abrirla al público."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Os encargáis de la publicación en App Store y Google Play?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Te acompañamos en todo el proceso: versiones de producción, beta privada con TestFlight y envío a revisión con lo que piden Apple y Google. La aprobación final depende de cada tienda. Te recomendamos que las cuentas de desarrollador estén a nombre de tu empresa, para que la app sea siempre tuya."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "¿Cómo tratáis los datos de los usuarios de la app?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Diseñamos la app teniendo en cuenta el RGPD: consentimiento, exportación de datos y borrado de cuenta, permisos por usuario en la base de datos y analítica que filtra los datos personales. Si incluye funciones con IA, con revisión humana donde un error importa."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  </script>
+  <link rel="preload" href="/fonts/geist-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/css/style.css">
+  <script>document.documentElement.classList.add('js');setTimeout(function(){if(!window.__ezReady)document.documentElement.classList.remove('js')},3000)</script>
+</head>
+<body>
+
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+
+  <nav class="nav" aria-label="Principal">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo" aria-label="Erizonn — Inicio">erizonn<span>.</span></a>
+      <button class="nav-toggle" id="navToggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="navLinks">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="/#services">Servicios</a></li>
+        <li><a href="/#process">Cómo trabajamos</a></li>
+        <li><a href="/#projects">Proyectos</a></li>
+        <li><a href="/support.html">Soporte</a></li>
+        <li><a href="#contact" class="nav-cta">Contactar</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main id="main">
+
+    <header class="page-header">
+      <div class="hero-bg" aria-hidden="true">
+        <span class="blob blob--1"></span>
+        <span class="blob blob--2"></span>
+        <span class="noise"></span>
+      </div>
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Migas de pan">
+          <ol>
+            <li><a href="/">Inicio</a></li>
+            <li><a href="/#services">Servicios</a></li>
+            <li><span aria-current="page">Apps móviles</span></li>
+          </ol>
+        </nav>
+        <span class="eyebrow">Apps móviles</span>
+        <h1>Desarrollo de apps móviles en Madrid para <span class="grad-text">iOS y Android</span></h1>
+        <p>Creamos tu app para iOS y Android con una sola base de código en React Native y Expo. Del prototipo navegable al MVP y a la beta con usuarios reales, y te acompañamos en la publicación en las tiendas.</p>
+        <div class="hero-cta">
+          <a href="#contact" class="btn btn--primary">
+            Cuéntanos tu proyecto
+            <svg class="arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+          <a href="#incluye" class="btn btn--ghost">Qué incluye</a>
+        </div>
+        <ul class="hero-points">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>React Native y Expo</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>Prototipo antes del MVP</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>Suscripciones y push</li>
+        </ul>
+      </div>
+    </header>
+
+    <section class="section" id="incluye" aria-labelledby="incluye-title">
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow">Qué incluye</span>
+          <h2 class="section-title" id="incluye-title">Qué construimos <span class="grad-text">para tu app</span></h2>
+          <p class="section-subtitle">Una app no es solo lo que se ve en el móvil. También construimos el backend, el panel para tu equipo y las piezas para cobrar, enviar avisos y actualizarla.</p>
+        </div>
+        <div class="service-grid">
+          <div class="feature reveal">
+            <span class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span>
+            <h3>Prototipo navegable</h3>
+            <p>Pantallas de alta fidelidad con datos de ejemplo que se recorren en el móvil como la app final. Lo enseñas a usuarios y decides qué entra en el MVP.</p>
+          </div>
+          <div class="feature reveal" style="--d:.06s">
+            <span class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg></span>
+            <h3>App para iOS y Android</h3>
+            <p>Una sola base de código con React Native, Expo y TypeScript. Acceso con email, Google o Apple y enlaces que abren la pantalla exacta.</p>
+          </div>
+          <div class="feature reveal" style="--d:.12s">
+            <span class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg></span>
+            <h3>Suscripciones dentro de la app</h3>
+            <p>Modelo freemium con suscripciones dentro de la app, gestionadas con RevenueCat y sincronizadas con tu servidor para que cada usuario tenga su acceso.</p>
+          </div>
+          <div class="feature reveal">
+            <span class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg></span>
+            <h3>Notificaciones push</h3>
+            <p>Avisos en iOS y Android que se envían automáticamente cuando ocurre algo en la app, como contenido nuevo, y que gestionas desde el panel.</p>
+          </div>
+          <div class="feature reveal" style="--d:.06s">
+            <span class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg></span>
+            <h3>Panel de administración</h3>
+            <p>Panel web para gestionar contenidos, usuarios, moderación y notificaciones, con registro de actividad y buzón de opiniones de la beta.</p>
+          </div>
+          <div class="feature reveal" style="--d:.12s">
+            <span class="feature-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg></span>
+            <h3>Backend con Supabase</h3>
+            <p>PostgreSQL con autenticación, almacenamiento de fotos y vídeos, funciones en el servidor y permisos por usuario en cada tabla.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="casos" aria-labelledby="casos-title">
+      <span class="divider-glow" aria-hidden="true"></span>
+      <div class="container split">
+        <div class="split-sticky reveal">
+          <div class="section-head">
+            <span class="eyebrow">Casos de uso</span>
+            <h2 class="section-title" id="casos-title">Cuándo tiene sentido <span class="grad-text">una app</span></h2>
+            <p class="section-subtitle">Escenarios habituales en los que una app móvil aporta más que una web. Si el tuyo no aparece, cuéntanoslo y lo valoramos contigo.</p>
+          </div>
+        </div>
+        <ol class="usecases">
+          <li class="usecase reveal">
+            <h3>Validar una idea de producto</h3>
+            <p>Tienes un concepto y quieres comprobar si convence antes de invertir en el desarrollo completo. Empezamos por un prototipo navegable y lo pruebas con usuarios.</p>
+          </li>
+          <li class="usecase reveal">
+            <h3>Contenido con modelo freemium</h3>
+            <p>Un catálogo con parte gratuita y parte premium, suscripción dentro de la app y avisos cuando hay novedades, todo gestionado desde un panel web.</p>
+          </li>
+          <li class="usecase reveal">
+            <h3>Una app para tus clientes</h3>
+            <p>Das un servicio y quieres estar en el móvil de tus clientes: cuentas de usuario, contenido personalizado y avisos de lo que les importa.</p>
+          </li>
+          <li class="usecase reveal">
+            <h3>Funciones con IA dentro de la app</h3>
+            <p>Generar, clasificar o estructurar contenido con IA dentro de tu app, con validaciones automáticas y revisión de tu equipo antes de publicarlo.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section" id="enfoque" aria-labelledby="enfoque-title">
+      <span class="divider-glow" aria-hidden="true"></span>
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow">Cómo lo hacemos</span>
+          <h2 class="section-title" id="enfoque-title">Así llevamos tu app <span class="grad-text">a usuarios reales</span></h2>
+        </div>
+        <ul class="approach reveal">
+          <li>
+            <span class="approach-check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span>
+            <h3>MVP con lo imprescindible</h3>
+            <p>Priorizamos las funciones que demuestran que la app sirve a tu negocio. Lo demás queda planificado para las siguientes fases.</p>
+          </li>
+          <li>
+            <span class="approach-check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span>
+            <h3>Beta privada con TestFlight</h3>
+            <p>Distribuimos la app a un grupo de usuarios reales y recogemos sus opiniones en el panel antes de abrirla al público.</p>
+          </li>
+          <li>
+            <span class="approach-check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span>
+            <h3>Mejoras sin esperar a la tienda</h3>
+            <p>El contenido se cambia desde el panel y las mejoras que no tocan la parte nativa llegan a los móviles sin pasar de nuevo por la tienda.</p>
+          </li>
+          <li>
+            <span class="approach-check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span>
+            <h3>Errores y uso bajo control</h3>
+            <p>Analítica de producto que filtra los datos personales, monitorización de errores en la app y el servidor, y tests automatizados.</p>
+          </li>
+        </ul>
+        <div class="tech-row reveal">
+          <p class="sectors-label">Tecnologías habituales</p>
+          <ul class="chips">
+            <li>React Native</li>
+            <li>Expo y Expo Router</li>
+            <li>TypeScript</li>
+            <li>EAS Build, Submit y Update</li>
+            <li>RevenueCat</li>
+            <li>Supabase</li>
+            <li>PostgreSQL</li>
+            <li>APNs y Firebase Cloud Messaging</li>
+            <li>TestFlight</li>
+            <li>Sentry</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="faq" aria-labelledby="faq-title">
+      <span class="divider-glow" aria-hidden="true"></span>
+      <div class="container split">
+        <div class="split-sticky reveal">
+          <div class="section-head">
+            <span class="eyebrow">Preguntas frecuentes</span>
+            <h2 class="section-title" id="faq-title">Dudas sobre <span class="grad-text">apps móviles</span></h2>
+          </div>
+          <div class="faq-aside">
+            <p>¿Tienes otra pregunta? Escríbenos y te contestamos en menos de 48 horas.</p>
+            <a href="mailto:apps@erizonn.com?subject=Proyecto%3A%20Apps%20m%C3%B3viles" class="btn btn--ghost">apps@erizonn.com</a>
+          </div>
+        </div>
+        <div class="faq reveal">
+          <details class="faq-item">
+            <summary>¿Por qué React Native y Expo en lugar de dos apps nativas?<span class="faq-plus" aria-hidden="true"></span></summary>
+            <div class="faq-answer">
+              <p>Con una sola base de código tienes la app en iOS y Android a la vez, y cada mejora llega a las dos plataformas. Cubre lo habitual en una app de negocio: push, subida de fotos y vídeos, suscripciones o acceso con Apple y Google. Si tu idea necesita algo muy específico del dispositivo, lo analizamos antes de empezar.</p>
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>¿Necesito una app o me basta con una web instalable?<span class="faq-plus" aria-hidden="true"></span></summary>
+            <div class="faq-answer">
+              <p>Depende del uso. Si quieres estar en App Store y Google Play o vender suscripciones a través de las tiendas, lo lógico es una app. Para herramientas internas o portales de clientes puede bastar una aplicación web instalable (PWA) con avisos push y uso sin conexión. Te ayudamos a decidir.</p>
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>¿Qué diferencia hay entre prototipo, MVP y beta?<span class="faq-plus" aria-hidden="true"></span></summary>
+            <div class="faq-answer">
+              <p>El prototipo navegable simula la app con datos de ejemplo para validar la idea con usuarios. El MVP es la primera versión funcional, con backend real y solo lo imprescindible. La beta privada la pone en manos de un grupo de usuarios reales para pulirla antes de abrirla al público.</p>
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>¿Os encargáis de la publicación en App Store y Google Play?<span class="faq-plus" aria-hidden="true"></span></summary>
+            <div class="faq-answer">
+              <p>Te acompañamos en todo el proceso: versiones de producción, beta privada con TestFlight y envío a revisión con lo que piden Apple y Google. La aprobación final depende de cada tienda. Te recomendamos que las cuentas de desarrollador estén a nombre de tu empresa, para que la app sea siempre tuya.</p>
+            </div>
+          </details>
+          <details class="faq-item">
+            <summary>¿Cómo tratáis los datos de los usuarios de la app?<span class="faq-plus" aria-hidden="true"></span></summary>
+            <div class="faq-answer">
+              <p>Diseñamos la app teniendo en cuenta el RGPD: consentimiento, exportación de datos y borrado de cuenta, permisos por usuario en la base de datos y analítica que filtra los datos personales. Si incluye funciones con IA, con revisión humana donde un error importa.</p>
+            </div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="relacionados" aria-labelledby="related-title">
+      <span class="divider-glow" aria-hidden="true"></span>
+      <div class="container">
+        <div class="section-head reveal">
+          <span class="eyebrow">Otros servicios</span>
+          <h2 class="section-title" id="related-title">Lo que suele ir de la mano</h2>
+        </div>
+        <div class="related">
+          <article class="tile reveal">
+            <div class="tile-top">
+              <span class="tile-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span>
+            </div>
+            <h3>Plataformas a medida</h3>
+            <p>Plataformas de formación, portales de clientes y herramientas internas a medida, con roles, pagos y avisos.</p>
+            <a class="tile-link" href="/servicios/plataformas-a-medida">Ver servicio<span class="visually-hidden">: Plataformas a medida</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
+          </article>
+          <article class="tile reveal" style="--d:.08s">
+            <div class="tile-top">
+              <span class="tile-icon tile-icon--violet"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.94 15.5A2 2 0 0 0 8.5 14.06l-6.14-1.58a.5.5 0 0 1 0-.96L8.5 9.94A2 2 0 0 0 9.94 8.5l1.58-6.14a.5.5 0 0 1 .96 0l1.58 6.14a2 2 0 0 0 1.44 1.44l6.14 1.58a.5.5 0 0 1 0 .96L15.5 14.06a2 2 0 0 0-1.44 1.44l-1.58 6.14a.5.5 0 0 1-.96 0z"/></svg></span>
+            </div>
+            <h3>IA aplicada</h3>
+            <p>Copilotos, asistentes sobre tus datos y procesos de contenido con IA, con supervisión humana.</p>
+            <a class="tile-link" href="/servicios/inteligencia-artificial">Ver servicio<span class="visually-hidden">: IA aplicada</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
+          </article>
+          <article class="tile reveal" style="--d:.16s">
+            <div class="tile-top">
+              <span class="tile-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></span>
+            </div>
+            <h3>Integraciones y automatización</h3>
+            <p>ERP y Shopify sincronizados, WhatsApp Business, flujos con n8n, reservas y pagos conectados.</p>
+            <a class="tile-link" href="/servicios/integraciones-automatizacion">Ver servicio<span class="visually-hidden">: Integraciones y automatización</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="contact" aria-labelledby="contact-title">
+      <div class="container">
+        <div class="cta reveal">
+          <span class="eyebrow">Contacto</span>
+          <h2 class="cta-title" id="contact-title">¿Tienes una idea <span class="grad-text">de app</span>?</h2>
+          <p class="cta-text">Cuéntanos qué quieres construir y te proponemos por dónde empezar, del prototipo navegable al MVP. Te respondemos en menos de 48 horas.</p>
+          <div class="cta-actions">
+            <a href="mailto:apps@erizonn.com?subject=Proyecto%3A%20Apps%20m%C3%B3viles" class="btn btn--primary btn--lg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+              apps@erizonn.com
+            </a>
+            <a href="tel:+34910626607" class="btn btn--ghost btn--lg">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+              +34 910 626 607
+            </a>
+          </div>
+          <ul class="cta-meta">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>Lunes a viernes, 9:00 – 18:00 (hora de Madrid)</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>Paseo Ermita del Santo 40, Madrid</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <a href="/" class="nav-logo" aria-label="Erizonn — Inicio">erizonn<span>.</span></a>
+          <p class="footer-tagline">Agencia digital en Madrid desde 2020. Apps, webs, ecommerce, automatización e IA aplicada.</p>
+        </div>
+        <div>
+          <h2>Empresa</h2>
+          <ul class="footer-links">
+            <li><a href="/#process">Cómo trabajamos</a></li>
+            <li><a href="/#projects">Proyectos</a></li>
+            <li><a href="/#faq">Preguntas frecuentes</a></li>
+            <li><a href="/support.html">Soporte</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Servicios</h2>
+          <ul class="footer-links">
+            <li><a href="/servicios/apps-moviles">Apps móviles</a></li>
+            <li><a href="/servicios/desarrollo-web">Webs y landing pages</a></li>
+            <li><a href="/servicios/shopify-ecommerce">Shopify y ecommerce</a></li>
+            <li><a href="/servicios/integraciones-automatizacion">Integraciones y automatización</a></li>
+            <li><a href="/servicios/inteligencia-artificial">IA aplicada</a></li>
+            <li><a href="/servicios/plataformas-a-medida">Plataformas a medida</a></li>
+            <li><a href="/servicios/marketing-digital">Marketing digital y Ads</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Legal</h2>
+          <ul class="footer-links">
+            <li><a href="/privacy.html">Política de Privacidad</a></li>
+            <li><a href="/terms.html">Términos de Uso</a></li>
+            <li><a href="/data-deletion.html">Eliminación de Datos</a></li>
+          </ul>
+        </div>
+        <div class="footer-contact">
+          <h2>Contacto</h2>
+          <ul class="footer-links">
+            <li><a href="mailto:apps@erizonn.com">apps@erizonn.com</a></li>
+            <li><a href="tel:+34910626607">+34 910 626 607</a></li>
+            <li>Paseo Ermita del Santo&nbsp;40<br>Local 1 · 28011 Madrid</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2020–2026 Erizonn Media S.L. Todos los derechos reservados.</span>
+        <span>CIF B42866798 · Madrid, España</span>
+      </div>
+    </div>
+    <div class="footer-wordmark" aria-hidden="true">erizonn<span>.</span></div>
+  </footer>
+
+  <script src="/js/main.js" defer onerror="document.documentElement.classList.remove('js')"></script>
+
+</body>
+</html>
